@@ -1,0 +1,9 @@
+1nem.pdb
+1pbr.pdb
+1q8n.pdb
+1uui.pdb
+1y26_ion.pdb
+2gdi_ion_lig.pdb
+2tob.pdb
+3d2x_ion_lig.pdb
+3gx2_ion_lig.pdb
